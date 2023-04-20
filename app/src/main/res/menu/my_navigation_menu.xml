@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_training"
+            android:icon="@drawable/ic_training"
+            android:title="Training" />
+
+        <item
+            android:id="@+id/nav_routeTracker"
+            android:icon="@drawable/ic_route_tracker"
+            android:title="Route Tracker" />
+
+        <item
+            android:id="@+id/nav_volunteers"
+            android:icon="@drawable/ic_volunteers"
+            android:title="Volunteers" />
+
+        <item
+            android:id="@+id/nav_donate"
+            android:icon="@drawable/ic_donate"
+            android:title="Donate" />
+
+    </group>
+
+
+
+    <group>
+
+        <item
+            android:id="@+id/nav_aboutUs"
+            android:icon="@drawable/ic_about_us"
+            android:title="About Us" />
+
+        <item
+            android:id="@+id/nav_contactUs"
+            android:icon="@drawable/ic_contact_us"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881927330380",
+    "firebase_url": "https://fsdemo-bfc33.firebaseio.com",
+    "project_id": "fsdemo-bfc33",
+    "storage_bucket": "fsdemo-bfc33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881927330380:android:6c94a1b68605c36caab2e9",
+        "android_client_info": {
+          "package_name": "com.example.fsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881927330380-mtdvno76hng2dktjb9ue95gj6265u5pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8V-au2hrwMtvBAPdBKTUeoT7jTbh1U58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881927330380-mtdvno76hng2dktjb9ue95gj6265u5pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
